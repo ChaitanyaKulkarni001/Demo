@@ -24,6 +24,14 @@ git merge branchName
 
 git stashing
 
+ 
 it is like heap area where we can store some peice of work so that we can go to another branch and we also dont have to save the commit in branch b1
 
 this one is another
+
+it is like heap area where we can store some peice of work so that we can go to another branch and we also dont have to save the commit in branch b11
+
+
+
+This is  EExperimental code?
+
