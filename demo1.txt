@@ -1,0 +1,9 @@
+git init
+touch filename.ext
+git status 
+git add "filename.ext"
+git add .
+git commit -m "MESSEGE"
+git config --global user.name  "NAME"
+git config --global user.email "EMAIL"
+git log
