@@ -7,3 +7,21 @@ git commit -m "MESSEGE"
 git config --global user.name  "NAME"
 git config --global user.email "EMAIL"
 git log
+
+
+To delete a branch
+git branch -d branchname 
+
+// We can't delete a branch if we are in a branch 
+
+To rename a branch 
+git branch -m "RenameBranch"
+
+TO merge 2 branches
+first one should be main(main big file) and second one in which littile changes happnes and head should be at main file and then
+git merge branchName
+
+
+git stashing
+
+it is like heap area where we can store some peice of work so that we can go to another branch and we also dont have to save the commit in branch b1
