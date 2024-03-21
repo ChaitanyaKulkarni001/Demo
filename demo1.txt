@@ -7,6 +7,7 @@ git commit -m "MESSEGE"
 git config --global user.name  "NAME"
 git config --global user.email "EMAIL"
 git log
+git log --oneline
 
 
 To delete a branch
