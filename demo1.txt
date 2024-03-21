@@ -9,7 +9,6 @@ git config --global user.email "EMAIL"
 git log
 git log --oneline
 
-
 To delete a branch
 git branch -d branchname 
 
@@ -23,23 +22,14 @@ first one should be main(main big file) and second one in which littile changes 
 git merge branchName
 
 
-git stashing
+git stash drop <stash name>
 
-<<<<<<< Updated upstream
- 
-it is like heap area where we can store some peice of work so that we can go to another branch and we also dont have to save the commit in branch b1
+git stash clear
+git stash pop
+git stash apply
 
-this one is another
-
-=======
-git > Stashed changes
-it is like heap area where we can store some peice of work so that we can go to another branch and we also dont have to save the commit in branch b11
-
-
-
-<<<<<<< Updated upstream
-This is  EExperimental code?
-
-=======
-This is  EExperimental code?
->>>>>>> Stashed changes
+git log --oneline
+git checkout <7digitsHashcode>
+to go at timeline
+git switch - 
+to come at present
