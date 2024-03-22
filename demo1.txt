@@ -36,5 +36,4 @@ to come at present
 
 while cloning 
 we use https link and write git clone <link>
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFwRTV2kWQRmdvZdkjwu4QE7OmbxFhuj8/6e/nfL+/WO kulkarnichaitanya001@gmail.com
 
